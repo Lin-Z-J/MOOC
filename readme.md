@@ -11,9 +11,9 @@ MOOC
 
 ## 相关项目
 
-- [MOOC-SpringCloud](https://github.com/saiGou-14H/MOOC-SpringCloud)
-- [MOOC-Vue-Admin-Template](https://github.com/saiGou-14H/MOOC-Vue-Admin-Template)
-- [MOOC-Android](https://github.com/saiGou-14H/MOOC-Android)
+- [MOOC-Android](https://github.com/Lin-Z-J/MOOC-Android.git)
+- [MOOC-SpringCloud](https://github.com/Lin-Z-J/MOOC-SpringCloud.git)
+- [MOOC-Vue-Admin-Template](https://github.com/Lin-Z-J/MOOC-Vue-Admin-Template.git)
 
 ## 项目简介
 
