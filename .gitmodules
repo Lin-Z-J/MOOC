@@ -4,3 +4,6 @@
 [submodule "MOOC-SpringCloud"]
 	path = MOOC-SpringCloud
 	url = https://github.com/Lin-Z-J/MOOC-SpringCloud.git
+[submodule "MOOC-Vue-Admin-Template"]
+	path = MOOC-Vue-Admin-Template
+	url = https://github.com/Lin-Z-J/MOOC-Vue-Admin-Template.git
